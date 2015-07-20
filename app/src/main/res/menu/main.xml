@@ -1,0 +1,10 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <!-- <item
+         android:id="@+id/action_check_for_comments"
+         android:title="@string/action_check_comments"
+         android:icon="@drawable/ic_action_refresh"
+         android:showAsAction="ifRoom" /> -->
+
+</menu>

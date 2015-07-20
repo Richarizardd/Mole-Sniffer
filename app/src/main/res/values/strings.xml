@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mole Sniffer</string>
+    <string name="action_settings">Settings</string>
+    <string name="intro_disclaimer">This app should not be used for any medical diagnosis, nor treated as a medical device in any shape or form. Call 911 for any medical emergencies</string>
+    <string name="proceed">Continue</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="image_description">- Ensure good lighting\n- Center the mole\n- Focus on the mole</string>
+    <string name="reselect_image">re-select image</string>
+    <string name="ask_professional">ask a professional</string>
+    <string name="upload_complete">Upload complete! You will be notified when comments are available</string>
+    <string name="action_check_comments">Check for comments</string>
+    <string name="no_comments">You have no new comments yet</string>
+    <string name="checking_for_comments">Checking for comments...</string>
+    <string name="new_comment">New Comment</string>
+    <string name="from">From:</string>
+    <string name="comments">Comments</string>
+    <string name="pick_image">select an image to begin...</string>
+    <string name="or_check_comments">...or check for new comments</string>
+
+</resources>
